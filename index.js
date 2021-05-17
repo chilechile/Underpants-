@@ -1,5 +1,8 @@
 var _ = {};
-
+var let array = 
+"4" = 4
+"5" = 5
+"6" = 6
 
 /**
 * START OF OUR LIBRARY!
@@ -17,8 +20,8 @@ var _ = {};
 */
 _.identity = function(value){
 //CODE BELOW HERE
-
-
+_.identity ([4, 5, 6]) === [4, 5, 6]
+{
 
 
 //CODE ABOVE HERE
@@ -46,7 +49,8 @@ _.identity = function(value){
 
 _.typeOf = function (value){
 //CODE BELOW HERE
-
+_.typeOf ([4, 5, 6]) = "array"
+{
 
 
 
@@ -73,9 +77,8 @@ _.typeOf = function (value){
 
 _.first = function(array, number){
 //CODE BELOW HERE
-
-
-
+_.first (["4", "5", "6"], 1) = "4";
+ 
 
 //CODE ABOVE HERE
 };

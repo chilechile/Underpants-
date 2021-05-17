@@ -1,0 +1,2 @@
+language = "nodejs"
+run = " If <array> is not an array, return []"
